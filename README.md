@@ -1,4 +1,6 @@
 # Anime vs Cartoon Image Classification
+## Live Demo
+[Click here to view the deployed app](https://image-classification-project-atckxkcymfbuqqktqflqvf.streamlit.app/)
 
 A comparative image classification project that distinguishes **anime** from **Western cartoon** images using three different machine learning approaches:
 
